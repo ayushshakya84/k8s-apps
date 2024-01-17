@@ -22,7 +22,7 @@ spec:
         - key: kubernetes.io/hostname
           operator: In
           values:
-          - ip-192-168-52-230.ap-south-1.compute.internal
+          - ip-192-168-3-113.ap-south-1.compute.internal
 ---
 apiVersion: v1
 kind: PersistentVolumeClaim
